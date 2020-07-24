@@ -13,3 +13,5 @@ Crypto Addresses:
  - Litecoin - LTov1i9vvhAikCeJ4wRcrRKsy1kVLRHiPr
  - Ethereum - 0x4D1Cd15c88AA85c0E7C83df9255Ab7B7E3637D28
  - Monero - 45Vfm5rKL7qbk8GVUpVGhS7DgxuMk71Tg8tMWjRaaKm5EbEQAVcKkociG9AvUsKX7CSgxZW44BC9BithEFANmzdu9io1boi
+
+<sub><sub>join the epic kasm server[ ](https://discord.gg/aJxt5Xn)<sup>(cool people only)</sup></sub></sub>
