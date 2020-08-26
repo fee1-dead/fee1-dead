@@ -2,7 +2,7 @@ Email: ent3rm4n@gmail.com
 
 [MBTI](https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator) Personality: [INFP-T](https://www.16personalities.com/infp-personality). <sup>[4%](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator#Type_dynamics_and_development)!</sup>
 
-[Favorite Musics](https://gist.github.com/Enteerman/2674cf88f2d3aba5f3ce7d7d4baff65f)
+<!--[Favorite Musics](https://gist.github.com/Enteerman/2674cf88f2d3aba5f3ce7d7d4baff65f)-->
 
 Crypto Addresses:
  - Bitcoin(SegWit) - bc1qa4qlrq0hcaw8qzh0mfc93xpg3xfsr6vv3rgrzu
