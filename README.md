@@ -1,5 +1,3 @@
-Email me: ent3rm4n@gmail.com
+Hello! I work on the Rust compiler, mostly related to `const` stuff.
 
-fee1-dead#7913
-
-<a rel="me" href="https://fosstodon.org/@beef">Mastodon</a>
+If you appreciate my work, consider [sponsoring](https://github.com/sponsors/fee1-dead) me!
